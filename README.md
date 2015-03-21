@@ -11,5 +11,9 @@
 
 [concatMap() vs flatMap()](http://fernandocejas.com/2015/01/11/rxjava-observable-tranformation-concatmap-vs-flatmap/)
 
+## Realm
+
+[Android persistence, so simple with Realm](http://www.hodoroid.com/android-persistence-so-simple-with-realm/)
+
 #Git
 [Remove intellij folders from your GitHub REPO](https://coderwall.com/p/qaiaog/remove-intellij-folders-from-your-github-repo)
