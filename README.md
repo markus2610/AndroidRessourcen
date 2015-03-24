@@ -17,3 +17,10 @@
 
 #Git
 [Remove intellij folders from your GitHub REPO](https://coderwall.com/p/qaiaog/remove-intellij-folders-from-your-github-repo)
+
+## Kotlin
+
+[Kotlin, the Swift of Android] (http://blog.gouline.net/2014/08/31/kotlin-the-swift-of-android/)
+[Android, Rx and Kotlin: a case study] (http://beust.com/weblog/2015/03/23/android-rx-and-kotlin-a-case-study/)
+[Using Project Kotlin for Android] (https://docs.google.com/document/d/1ReS3ep-hjxWA8kZi0YqDbEhCqTt29hG8P44aA9W0DM8/edit?hl=de&forcehl=1)
+[Kotlin for Android (I): Introduction] (http://antonioleiva.com/kotlin-for-android-introduction/)
