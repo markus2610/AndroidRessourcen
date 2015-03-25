@@ -11,6 +11,8 @@
 
 [concatMap() vs flatMap()](http://fernandocejas.com/2015/01/11/rxjava-observable-tranformation-concatmap-vs-flatmap/)
 
+[Using RxJava Observable's Completion Semantics for Greater Good] (http://adelnizamutdinov.github.io/blog/2015/01/23/using-rxjavas-observable-semantics-for-greater-good/)
+
 ## Realm
 
 [Android persistence, so simple with Realm](http://www.hodoroid.com/android-persistence-so-simple-with-realm/)
