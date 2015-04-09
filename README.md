@@ -7,6 +7,10 @@
 ## SharedPreferences
 [BEST PRACTICE: SHAREDPREFERENCES](https://yakivmospan.wordpress.com/2014/03/11/best-practice-sharedpreferences/)
 
+## Style
+
+[Styleable Views](https://sriramramani.wordpress.com/2012/09/18/styleable-views)
+
 ## RxJava
 
 [concatMap() vs flatMap()](http://fernandocejas.com/2015/01/11/rxjava-observable-tranformation-concatmap-vs-flatmap/)
