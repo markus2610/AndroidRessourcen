@@ -11,6 +11,9 @@
 
 [Styleable Views](https://sriramramani.wordpress.com/2012/09/18/styleable-views)
 
+## Performance
+[Performance Tuning On Android](http://blog.venmo.com/hf2t3h4x98p5e13z82pl8j66ngcmry/performance-tuning-on-android)
+
 ## RxJava
 
 [concatMap() vs flatMap()](http://fernandocejas.com/2015/01/11/rxjava-observable-tranformation-concatmap-vs-flatmap/)
