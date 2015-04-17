@@ -22,6 +22,8 @@
 
 [Using RxJava Observable's Completion Semantics for Greater Good] (http://adelnizamutdinov.github.io/blog/2015/01/23/using-rxjavas-observable-semantics-for-greater-good/)
 
+[Recursive Observables with RxJava](https://jkschneider.github.io/blog/2014/recursive-observables-with-rxjava.html)
+
 ## Realm
 
 [Android persistence, so simple with Realm](http://www.hodoroid.com/android-persistence-so-simple-with-realm/)
