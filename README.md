@@ -20,6 +20,9 @@
 
 [Wakelocks: Detect No-Sleep Issues in Android* Applications](https://software.intel.com/en-us/android/articles/wakelocks-detect-no-sleep-issues-in-android-applications)
 
+## Views
+[ANDROID VIEW BASICS: COORDINATES,MARGIN,PADDING,DIP,PX](https://laaptu.wordpress.com/2013/12/12/android-view-basics-coordinatesmarginpaddingdippx/)
+
 ## RxJava
 
 [concatMap() vs flatMap()](http://fernandocejas.com/2015/01/11/rxjava-observable-tranformation-concatmap-vs-flatmap/)
