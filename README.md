@@ -24,6 +24,8 @@
 [ANDROID VIEW BASICS: COORDINATES,MARGIN,PADDING,DIP,PX](https://laaptu.wordpress.com/2013/12/12/android-view-basics-coordinatesmarginpaddingdippx/)
 [Custom Layouts on Android](http://lucasr.org/2014/05/12/custom-layouts-on-android/)
 
+[Custom ViewGroups](https://sriramramani.wordpress.com/2015/05/06/custom-viewgroups/)
+
 ### Tools
 [Dissect layout traversals on Android](https://github.com/lucasr/probe)
 
