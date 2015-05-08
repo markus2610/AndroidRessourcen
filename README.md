@@ -22,6 +22,10 @@
 
 ## Views
 [ANDROID VIEW BASICS: COORDINATES,MARGIN,PADDING,DIP,PX](https://laaptu.wordpress.com/2013/12/12/android-view-basics-coordinatesmarginpaddingdippx/)
+[Custom Layouts on Android](http://lucasr.org/2014/05/12/custom-layouts-on-android/)
+
+### Tools
+[Dissect layout traversals on Android](https://github.com/lucasr/probe)
 
 ## RxJava
 
