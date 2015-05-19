@@ -14,6 +14,8 @@
 ## Performance
 [Performance Tuning On Android](http://blog.venmo.com/hf2t3h4x98p5e13z82pl8j66ngcmry/performance-tuning-on-android)
 
+[Facebook Gone Native](http://laurentgoudet.com/blog/2013/03/16/facebook-gone-native/)
+
 ## Wakelocks
 
 [Wakelocks for Android](https://software.intel.com/en-us/android/articles/wakelocks-for-android)
