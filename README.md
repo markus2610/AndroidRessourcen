@@ -22,6 +22,10 @@
 
 [Wakelocks: Detect No-Sleep Issues in Android* Applications](https://software.intel.com/en-us/android/articles/wakelocks-detect-no-sleep-issues-in-android-applications)
 
+## Memory
+
+[Using MAT (Memory Analyzer Tool) to understand memory issues in your app](https://www.youtube.com/watch?v=6ryAYxLNpt8)
+
 ## Views
 [ANDROID VIEW BASICS: COORDINATES,MARGIN,PADDING,DIP,PX](https://laaptu.wordpress.com/2013/12/12/android-view-basics-coordinatesmarginpaddingdippx/)
 [Custom Layouts on Android](http://lucasr.org/2014/05/12/custom-layouts-on-android/)
