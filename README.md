@@ -73,3 +73,7 @@
 [Kotlin Meteor: findViewById dead as Dinosaurs] (https://ragunathjawahar.wordpress.com/2015/03/23/kotlin-findviewbyid-dead-as-dinosaurs/)
 
 [Experimentation with RxJava] (http://blog.joanzapata.com/experimentation-with-rx/)
+
+## Git
+[Add Git Branch Name to Terminal Prompt (Mac)]
+(http://martinfitzpatrick.name/article/add-git-branch-name-to-terminal-prompt-mac/)
