@@ -77,3 +77,5 @@
 ## Git
 [Add Git Branch Name to Terminal Prompt (Mac)]
 (http://martinfitzpatrick.name/article/add-git-branch-name-to-terminal-prompt-mac/)
+
+[Creating And Playing With Branches](http://www.gitguys.com/topics/creating-and-playing-with-branches/)
