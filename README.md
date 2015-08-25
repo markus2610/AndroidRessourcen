@@ -79,3 +79,7 @@
 (http://martinfitzpatrick.name/article/add-git-branch-name-to-terminal-prompt-mac/)
 
 [Creating And Playing With Branches](http://www.gitguys.com/topics/creating-and-playing-with-branches/)
+
+## NDK
+
+[Android NDK: Version code scheme for publishing APKs per architecture](https://androidbycode.wordpress.com/2015/06/30/android-ndk-version-code-scheme-for-publishing-apks-per-architecture/)
