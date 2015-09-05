@@ -34,6 +34,8 @@
 
 [HUNTING YOUR LEAKS: MEMORY MANAGEMENT IN ANDROID part 2](http://www.raizlabs.com/dev/2014/04/hunting-your-leaks-memory-management-in-android-part-2-of-2/)
 
+[Android Handler Memory Leaks](https://techblog.badoo.com/blog/2014/08/28/android-handler-memory-leaks/)
+
 ## Views
 [ANDROID VIEW BASICS: COORDINATES,MARGIN,PADDING,DIP,PX](https://laaptu.wordpress.com/2013/12/12/android-view-basics-coordinatesmarginpaddingdippx/)
 [Custom Layouts on Android](http://lucasr.org/2014/05/12/custom-layouts-on-android/)
