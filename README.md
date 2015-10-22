@@ -85,3 +85,7 @@
 ## NDK
 
 [Android NDK: Version code scheme for publishing APKs per architecture](https://androidbycode.wordpress.com/2015/06/30/android-ndk-version-code-scheme-for-publishing-apks-per-architecture/)
+
+## Dagger 2
+
+[Making a Best Practice App #4 — Dagger 2](https://medium.com/@patrykpoborca/making-a-best-practice-app-4-dagger-2-267ec5f6c89a#.52qlam8y4)
