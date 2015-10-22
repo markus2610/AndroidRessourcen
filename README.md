@@ -89,5 +89,7 @@
 ## Dagger 2
 
 [Making a Best Practice App #4 — Dagger 2](https://medium.com/@patrykpoborca/making-a-best-practice-app-4-dagger-2-267ec5f6c89a#.52qlam8y4)
+
 [Dependency injection with Dagger 2 - Custom scopes](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)
+
 [Scopes in Dagger 2 stackoverflow](http://stackoverflow.com/questions/29528599/scopes-in-dagger-2)
