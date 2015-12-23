@@ -20,6 +20,10 @@
 
 [Facebook Gone Native](http://laurentgoudet.com/blog/2013/03/16/facebook-gone-native/)
 
+[Speed limit](https://medium.com/google-developers/exceed-the-android-speed-limit-b73a0692abc1#.hjiduisjo)
+
+[Android Application Performance — Step 1: Rendering] (https://medium.com/@elifbon/android-application-performance-step-1-rendering-ba820653ad3#.1m1r7tdro)
+
 ## Wakelocks
 
 [Wakelocks for Android](https://software.intel.com/en-us/android/articles/wakelocks-for-android)
